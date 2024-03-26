@@ -1,0 +1,23 @@
+.table {
+  margin: 100px auto;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px 60px;
+  border: 1px solid black;
+  text-align: center;
+  text-transform: capitalize;
+  color: #fff;
+  background-color: rgb(42, 42, 42);
+}
+
+td {
+  padding: 5px 60px;
+  border: 1px solid black;
+  text-align: center;
+  text-transform: capitalize;
+}
+tr:nth-child(2n + 2) {
+  background-color: rgb(209, 208, 208);
+}

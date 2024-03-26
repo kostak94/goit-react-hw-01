@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+.title_name {
+  font-size: 30px;
+}
+
+.red {
+  color: rgb(170, 6, 6);
+}
+
+.green {
+  color: rgb(4, 109, 4);
+}
