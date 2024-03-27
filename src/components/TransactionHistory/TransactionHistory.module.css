@@ -15,7 +15,7 @@ th {
 td {
   padding: 5px 60px;
   border: 1px solid black;
-  text-align: center;
+  text-align: start;
   text-transform: capitalize;
 }
 tr:nth-child(2n + 2) {
